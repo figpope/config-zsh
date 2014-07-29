@@ -19,6 +19,7 @@ HELPDIR=/usr/local/share/zsh/helpfiles
 
 # additional completions
 fpath=(/usr/local/share/zsh/site-functions $fpath)
+fpath=(/usr/local/share/zsh-completions $fpath)
 
 # The following lines were added by compinstall
 
